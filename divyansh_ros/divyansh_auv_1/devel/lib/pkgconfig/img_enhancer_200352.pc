@@ -1,0 +1,8 @@
+prefix=/home/divyansh/divyansh_auv_1/devel
+
+Name: img_enhancer_200352
+Description: Description of img_enhancer_200352
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
