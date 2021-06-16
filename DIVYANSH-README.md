@@ -12,7 +12,10 @@
 
 
 
-##Sorry for the delay.I have given less time to this assignment the last week due to the quizzes going on and endsems approaching. I will complete the matlab part and learn the dynamic part as soon as possible. 
+
+
+
+## Sorry for the delay.I have given less time to this assignment the last week due to the quizzes going on and endsems approaching. I will complete the matlab part and learn the dynamic part as soon as possible. 
 
 _Thanks_
 _DIVYANSH KANKARIYA 200352_
